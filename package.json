@@ -1,0 +1,22 @@
+{
+  "name": "drifterz28",
+  "version": "1.0.0",
+  "description": "tech blog on stuff I buy from banggood and amazon",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drifterz28/drifterz28.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drifterz28/drifterz28/issues"
+  },
+  "homepage": "https://github.com/drifterz28/drifterz28",
+  "dependencies": {
+    
+  }
+}
