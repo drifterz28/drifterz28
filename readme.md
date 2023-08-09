@@ -2,3 +2,10 @@
 
 [![drifterz28's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drifterz28&langs_count=5&theme=vue&layout=compact)](https://github.com/drifterz28/github-readme-stats)
  
+I work to live and not the other way around.
+
+I have a lot of private repos so if you do not see the kind of code on here that pleases what you are looking for you can reach out and I would be happy to share. 
+
+I have been working with react and redux for over 8 years now and JavaScript longer than that. I use this github account to play and test out thoughts on my mind and this should not be how you judge someone that you would like working for you. If I worked on side projects and 40+ hours a week that would burn someone out and no one would be happy. 
+
+Thanks for looking at my profile here and I hope you like what you can see.
