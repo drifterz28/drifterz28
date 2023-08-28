@@ -9,3 +9,21 @@ I have a lot of private repos so if you do not see the kind of code on here that
 I have been working with react and redux for over 8 years now and JavaScript longer than that. I use this github account to play and test out thoughts on my mind and this should not be how you judge someone that you would like working for you. If I worked on side projects and 40+ hours a week that would burn someone out and no one would be happy. 
 
 Thanks for looking at my profile here and I hope you like what you can see.
+
+#### TECHNOLOGY SUMMARY
++ JavaScript, ES6, TypeScript
++ Next.js, Express.js, Node.js
++ React, Redux, Context, Hooks
++ HTML/HTML5 CSS/CSS3
++ GraphQL, REST
++ SQL, Postgres, MySQL
++ jQuery, AJAX, XHR, JSON, Fetch, Axios
++ Responsive Design, Mobile First
++ Matruial UI, AntD, Styled components
++ NPM, Yarn, Gulp, Grunt
++ Jest, Selenium, react testing lib, Test Driven Development (TDD)
++ Agile & Shape Up methodologies
++ Data Aggregation, Analytics, User Tracking
++ Linux, MacOS, Windows
++ Docker, AWS, Auth0
++ Version control with Git, SVN
